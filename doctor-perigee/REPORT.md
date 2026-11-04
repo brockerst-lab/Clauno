@@ -101,3 +101,9 @@ See the Suno song page or the generation prompt below. They're unchanged from th
 - Generation: 20 used (217 → 197).
 - Downloads: 1 used (41 → 40).
 - No purchases, deletions, publishing or submissions.
+
+## Submitted version (your remix)
+- **Song:** [Doctor Perigee](https://suno.com/song/33f8b9f2-9d4f-4545-8ce9-bae0eb3102bf), a v6-wild remix by brockerst. It's public and entered in Eight8Eight's collab.
+- **Style:** an operatic, cinematic storybook musical. A male operatic baritone with piano, theremin, strings, French horns, harp, woodwinds and timpani. The lyrics are unchanged.
+- **Suno analysis:** 3:58, 69 BPM, E♭ major; tagged piano, male vocals, orchestral.
+- **Your listening notes:** the one evil laugh is present and good, there's a key change, and the vibe is right. This resolves the laugh concern from the original take.
