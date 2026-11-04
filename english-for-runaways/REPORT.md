@@ -88,3 +88,26 @@ The displayed lyrics still contain production notes such as "[Spoken, dead serio
 ## Credits
 - Generation: 20 used (197 → 177).
 - Downloads: none.
+
+## Round 2: phonetic accent fix (20 credits; 177 → 157)
+**Your feedback on Round 1:** it sang plain English, with no German accent.
+
+**The fix:** I spelled the accent into the lyrics:
+- *ze/zis/zat/zere* for "the/this/that/there"
+- *v* for "w" (*vood vay*, *vire donkey*, *runavay*)
+- *unt* for "and", *haf* for "have"
+- hard final consonants (*lant*, *leks*, *burriet*, *hants*), *dsch*/*sh* clusters (*dschump*, *forth-shtepped*), *Yürgen*
+- the extra gag "gold in ze mouse"
+
+The style prompt now names the pronunciation rules ("Teutonic pronunciation, hard consonants, z for th and v for w"), and the exclude list adds "American accent, Southern accent". The model and settings are unchanged.
+
+| Model | Take |
+|---|---|
+| v6 | https://suno.com/song/01a576f1-6780-4161-a0ee-647c2ddc6504 |
+| v6 | https://suno.com/song/2d92cad7-b4cd-4bac-82b4-62792d20a630 |
+| v6-wild | https://suno.com/song/3dd91794-8561-4e28-976d-08882fdd003e |
+| v6-wild | https://suno.com/song/0bf36b14-a0d8-4e59-8a61-24100a217661 |
+
+Whether the accent comes through can only be judged by ear.
+
+**Before submitting:** the phonetic spelling helps the joke when read, so it can stay on the page. Switch it back to standard spelling only if you prefer plain lyrics.
