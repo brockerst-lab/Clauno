@@ -111,3 +111,21 @@ The style prompt now names the pronunciation rules ("Teutonic pronunciation, har
 Whether the accent comes through can only be judged by ear.
 
 **Before submitting:** the phonetic spelling helps the joke when read, so it can stay on the page. Switch it back to standard spelling only if you prefer plain lyrics.
+
+## Round 3: full phonetic spelling, accent removed from the style prompt (20 credits; 157 → 137)
+**Your feedback:** the style prompt won't produce the accent; it has to be in the lyrics. Round 2's spelling was too light, since most words were still standard English.
+
+**Round 3 changes:**
+- **Every line respelled** as a German speaker says it: *-ink* endings, flat vowels (*ket*, *beck*, *men*, *lent*), devoiced finals (*lecks*, *dok*, *hents*), doubled r's (*Yürrgen*, *sherrif*), initial z (*zett*, *zaussage*, *zalat*), *tsch* for j, *heff*, *off*, *mai*.
+- **Accent wording removed** from the style prompt, which now describes only the music.
+
+The full lyrics are in `lyrics-r3-phonetic.txt`.
+
+| Model | Take |
+|---|---|
+| v6 | https://suno.com/song/d6b342c8-005a-4388-9ea4-ccd24cba76a2 |
+| v6 | https://suno.com/song/5e0fedfb-2a0b-4409-9a67-7fca3619b050 |
+| v6-wild | https://suno.com/song/e71ac21a-3690-44b7-b0a0-15a9cfb01899 |
+| v6-wild | https://suno.com/song/127e25f3-a038-4696-a647-f1eda9bc3beb |
+
+This is the last normal round of the budget (6 of 8 requests used). Only the conditional Max Mode round remains.
